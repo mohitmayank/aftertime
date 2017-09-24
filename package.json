@@ -1,7 +1,8 @@
 {
   "name": "aftertime",
   "version": "1.0.0",
-  "description": "",
+  "description": "Very simple utility to write time in code. Instead of using numbers, use english (js)",
+  "keywords" : "time date seconds english",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

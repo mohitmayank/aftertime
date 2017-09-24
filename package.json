@@ -1,6 +1,6 @@
 {
   "name": "aftertime",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Very simple utility to write time in code. Instead of using numbers, use english (js)",
   "keywords" : "time date seconds english",
   "main": "index.js",
